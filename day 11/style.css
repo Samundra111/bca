@@ -1,0 +1,25 @@
+.box1{
+    width: 100%;
+    height: 300px;
+    background: greenyellow;
+}
+
+    
+
+@media  screen and (max-width:900px){
+.box1{background-color: red;}
+}
+@media screen and (max-width:500px){
+    .box1{background-color: grey;}
+    
+}
+@media screen and(max-width:400px) {
+    .box1{background-color: aliceblue;}
+}
+    
+
+
+    
+
+    
+ 

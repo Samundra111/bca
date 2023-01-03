@@ -1,0 +1,111 @@
+body{
+    margin:0;
+    padding: 0;
+}
+header{
+    width: 80%;
+    background-color:white;
+    height: 80px;
+    position: fixed;
+    left: 20%;
+    
+}
+aside{
+    width: 15%;
+    background-color:blue;
+    height: 900px;
+    position: fixed;
+    
+}
+main{
+    width: 80%;
+    background-color:grey;
+    height: 725px;
+    position: fixed;
+    left: 15%;
+    top: 100px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+.box{
+    width: 20%;
+    background-color: grey;
+    height: 40px;
+    position: fixed;
+    left: 24%;
+    top: 15px;
+  
+}
+aside H1{
+    color: white;
+    position: absolute;
+    left: 20%;
+}
+
+.box1{
+    width: 20%;
+    background-color: white;
+    height: 100px;
+    left:40px;
+    margin-top: 80px;
+   
+}
+ h3{
+     margin-left:  50px;
+}
+h2{
+   margin-left: 50px; 
+}
+.box2{
+    width: 20%;
+    background-color: white;
+    height: 100px;
+    right:200px;
+   margin-top: 80px;
+   
+}
+.box3{
+    width: 20%;
+    background-color: white;
+    height: 100px;
+    right:100px;
+   margin-top:80px;
+   
+}
+.box4{
+    width: 20%;
+    background-color: white;
+    height: 100px;
+    right:50px;
+    margin-top:80px;
+   
+}
+.box5{
+   width: 30%;
+    background-color: white;
+    height: 30px;
+    right:300px;
+    margin-top:200px;
+    position: absolute;
+    
+}
+.box6{
+   width: 30%;
+    background-color: rgb(86, 84, 84);
+    height: 100px;
+    right:300px;
+    margin-top:220px;
+    position: absolute;
+     
+}
+.heading{
+    color: white;
+    position: fixed;
+    margin-top: 50px;
+    margin-left: 60px;
+    
+
+}
